@@ -82,7 +82,7 @@ Terminal code for create zip file
 ```
 
 local Terminal a paste the code 
-রপর লোকাল পিসিতে ডাউনলোড করার সময় জিপ ফাইলের জায়গায় এই ফাইলটি টানবেন:
+লোকাল পিসিতে ডাউনলোড করার সময় জিপ ফাইলের জায়গায় এই ফাইলটি টানবেন:
 ```bash
 scp root@187.77.136.31:/var/www/JSTR-Global-ERP/backend/my_backup.tar.gz "H:\IT\MERN Projects"
 ```
